@@ -1,0 +1,19 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ayaf-Bless/blog-app.git",
+  "author": "ayaf-bless <blessambel1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "nodemon src/index.ts"
+  },
+  "dependencies": {
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.4"
+  }
+}
