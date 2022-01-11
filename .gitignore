@@ -6,7 +6,7 @@ stopped_here.txt
 /dist
 /tmp
 /out-tsc
-
+track.txt
 # Runtime data
 pids
 *.pid
